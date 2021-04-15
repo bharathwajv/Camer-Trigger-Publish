@@ -1,0 +1,3 @@
+git clone https://github.com/bharathwajv/Camer-Trigger-Publish.git
+cd Camer-Trigger-Publish
+./url.sh
