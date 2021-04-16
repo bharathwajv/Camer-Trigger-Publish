@@ -1,3 +1,11 @@
+
+
+Steps to be followed in Rasbery pi:
+
 git clone https://github.com/bharathwajv/Camer-Trigger-Publish.git
+
 cd Camer-Trigger-Publish
+
+chmod 766 url.sh
+
 ./url.sh
